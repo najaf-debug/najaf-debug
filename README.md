@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Najaf Ali Haider  
 
-💻 **ex-Flutter Developer | MERN Stack Enthusiast | Open Source Explorer**  
+💻 **Ex-Flutter Developer | MERN Stack Enthusiast | Open Source Explorer**  
 
 I'm a dedicated developer specializing in creating beautiful and functional cross-platform applications with **Flutter** and diving deep into the **MERN stack** for modern web development.  
 I love building apps, writing clean code, and sharing knowledge through projects on GitHub.  
