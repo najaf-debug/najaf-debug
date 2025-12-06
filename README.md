@@ -62,13 +62,6 @@ A Flutter-based Flappy Bird clone using the Flame game engine
 
 ---
 
-## 📊 GitHub Stats  
-
-![Najaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=najaf-debug&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najaf-debug&layout=compact&theme=tokyonight&langs_count=6&hide=java)  
-
----
-
 ## 📫 Connect With Me  
 - 📍 Dera Ismail Khan, Pakistan  
 - 💼 [LinkedIn](https://www.linkedin.com/in/najaf-ali-haider-vlogz-a81164368/)  
