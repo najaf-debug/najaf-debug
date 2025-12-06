@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Najaf Banner](https://i.imgur.com/R7Z8n2F.png)
-
 # 👋 Hi, I'm Najaf Ali Haider  
 
 💻 **Ex-Flutter Developer | Python & ML Learner**  
