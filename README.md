@@ -3,7 +3,7 @@
 💻 **Ex-Flutter Developer | Python & ML Learner**  
 
 I'm passionate about building modern UI experiences using **Flutter** and **Web Technologies (HTML, CSS, JS)**.  
-Recently, I have shifted my focus to **Python** and I’m now actively exploring **Machine Learning** to step into the world of intelligent systems.  
+Recently, I have shifted my focus to **JavaScript** and I’m now actively exploring **MERN** to step into the world of Web Development.  
 
 ---
 
@@ -19,16 +19,12 @@ Recently, I have shifted my focus to **Python** and I’m now actively exploring
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-## 🚀 About Me  
-- 🚀 Learning **Python** and moving into **Machine Learning**  
+## 🚀 About Me    
 - 💻 Building UI/UX-rich apps with **Flutter**  
-- 🌐 Creating dynamic web apps using **HTML, CSS, JS**  
-- 🎯 Goal: Become a **Machine Learning Engineer**  
+- 🌐 Creating dynamic web apps using **HTML, CSS, JS**   
 - ❤️ Love open-source & clean code  
 
 ---
@@ -39,10 +35,7 @@ Recently, I have shifted my focus to **Python** and I’m now actively exploring
 - Flutter | HTML | CSS | JavaScript  
 
 **Core Language:**  
-- Python  
-
-**Exploring:**  
-- Machine Learning (Scikit-Learn, Pandas etc.)  
+- JavaScript    
 
 **Tools:**  
 - Git & GitHub | VS Code | Android Studio  
