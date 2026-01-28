@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Najaf Ali Haider  
 
-💻 **Ex-Flutter Developer | Python & ML Learner**  
+💻 **Ex-Flutter Developer | MERN Stack Learner**  
 
 I'm passionate about building modern UI experiences using **Flutter** and **Web Technologies (HTML, CSS, JS)**.  
 Recently, I have shifted my focus to **JavaScript** and I’m now actively exploring **MERN** to step into the world of Web Development.  
