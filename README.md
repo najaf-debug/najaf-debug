@@ -72,11 +72,19 @@
 
 ## 📊 GitHub Stats
 
-![Najaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=najaf-debug\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najaf-debug\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najaf-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaf-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+![Najaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=najaf-debug&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najaf-debug&layout=compact&theme=tokyonight)
+
 
 ## 🚀 Goals
 
