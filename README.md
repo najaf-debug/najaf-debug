@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Najaf Ali Haider
 
-🚀 **Aspiring MERN Stack Developer** | Former Flutter Developer
+ **Aspiring MERN Stack Developer** | Former Flutter Developer
 💻 Passionate about building interactive web & mobile applications
 
 ---
@@ -34,7 +34,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-### 🚀 Learning Next
+###  Learning Next
 
 ![Node.js](https://img.shields.io/badge/Node.js-Coming_Soon-green?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-Coming_Soon-black?style=for-the-badge)
@@ -70,7 +70,7 @@
 
 ---
 
-## 🚀 Goals
+##  Goals
 
 * 🔥 Become a **Full MERN Stack Developer**
 * 💼 Start freelancing / land a dev job
@@ -130,7 +130,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project            | Description                    | Tech            |
 | ------------------ | ------------------------------ | --------------- |
