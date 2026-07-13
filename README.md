@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 * 🔄 Transitioning from **Flutter Development → MERN Stack**
-* 🌱 Currently mastering **JavaScript**
+* 🌱 Currently mastering **React JS**
 * 🎯 Focused on building real-world projects
 * ⚡ Love creating UI + logic-driven applications
 
@@ -121,7 +121,7 @@
 
 <p align="center">
 
-💻 Frontend <img src="https://skillicons.dev/icons?i=html,css,js" />
+💻 Frontend <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 📱 Mobile <img src="https://skillicons.dev/icons?i=flutter" />
 
