@@ -110,7 +110,7 @@
 
 ```diff
 + Ex Flutter Developer
-+ Currently mastering JavaScript
++ Currently mastering React JS
 + Moving towards MERN Stack
 + Passionate about UI + logic
 ```
@@ -160,7 +160,7 @@
 
 ```yaml
 Focus: Becoming MERN Stack Developer
-Learning: Advanced JavaScript
+Learning: MERN Stack
 Next Step: Node.js → Express → MongoDB
 Goal: Freelancing + Job Ready
 ```
