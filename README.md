@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;2+Production+Apps+Delivered+for+Clients;React+%7C+Node.js+%7C+MongoDB+%7C+Express;From+Flutter+to+Full+Stack+%F0%9F%9A%80" />
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=najaf-debug&style=for-the-badge&color=00FFF7&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -67,8 +71,6 @@ Status   : Open to Work
 | 9 | Expense Tracker | Flutter | Personal |
 
 </div>
-
----
 
 ## Connect
 
