@@ -1,114 +1,89 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Najaf+Ali+Haider;MERN+Stack+Developer;Former+Flutter+Developer;Building+Projects+%26+Delivering+Results" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najaf%20Ali%20Haider&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Former%20Flutter%20Developer&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;2+Production+Apps+Delivered+for+Clients;React+%7C+Node.js+%7C+MongoDB+%7C+Express;From+Flutter+to+Full+Stack+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
-<h1 align="center">Welcome to My Dev World</h1>
+### About Me
 
-<p align="center">
-Turning ideas into reality with code <br>
-Transitioned from Flutter to MERN Stack
-</p>
-
----
-
-## About Me
-
-```diff
-+ Former Flutter Developer
-+ MERN Stack Developer
-+ Delivered 2 production-level apps for clients
-+ Passionate about UI + logic-driven applications
+```yaml
+Name     : Najaf Ali Haider
+Role     : MERN Stack Developer
+Mobile   : Former Flutter Developer
+Client Apps Delivered: 2
+Status   : Open to Work
 ```
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vite&theme=dark" />
+
+<br/><br/>
 
 **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools & Libraries**
-<img src="https://skillicons.dev/icons?i=redux,vite,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+
+<br/><br/>
 
 **Mobile**
-<img src="https://skillicons.dev/icons?i=flutter" />
 
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-| ------------------ | ------------------------------ | --------------- |
-| ThinkBoard | Full-stack notes app with rate limiting & REST API | MongoDB, Express, React, Node.js |
-| Production App 1 | Client production-level application | React (Vite), Appwrite, Redux Toolkit |
-| Production App 2 | Client production-level application | React (Vite), Appwrite, Redux, React Router Dom |
-| Flappy Bird | Game with physics & animations | Flutter + Flame |
-| Grocery App | Full FYP shopping UI | Flutter |
-| Tic Tac Toe | Game with sound effects | HTML, CSS, JS |
-| Calculator | Clean UI logic-based app | HTML, CSS, JS |
-| Todo App | Hive local database | Flutter |
-| Expense Tracker | Daily expense tracking | Flutter |
+</div>
 
 ---
 
 ## Experience
 
-- Built and delivered **2 production-level applications** for real clients
-- Stack used: **React (Vite), Appwrite, Redux, Redux Toolkit, React Router Dom**
-- Currently building full-stack MERN applications
+<div align="center">
 
----
+| | Project | Tech Stack | Type |
+|---|---|---|---|
+| 1 | Production App — Client | React (Vite), Appwrite, Redux Toolkit, React Router Dom | Client Work |
+| 2 | Production App — Client | React (Vite), Appwrite, Redux, React Router Dom | Client Work |
+| 3 | ThinkBoard — Notes App | MongoDB, Express, React, Node.js, Upstash | Personal |
+| 4 | Flappy Bird | Flutter + Flame Engine | Personal |
+| 5 | Grocery App (FYP) | Flutter | Academic |
+| 6 | Tic Tac Toe | HTML, CSS, JavaScript | Personal |
+| 7 | Calculator | HTML, CSS, JavaScript | Personal |
+| 8 | Todo App | Flutter + Hive | Personal |
+| 9 | Expense Tracker | Flutter | Personal |
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najaf-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaf-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## Goals
-
-```yaml
-Status: MERN Stack Developer
-Experience: 2 production apps delivered for clients
-Current: Building full-stack MERN projects
-Goal: Freelancing + Job Ready
-```
+</div>
 
 ---
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/najaf-debug">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/najaf-ali-haider-a81164368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=00FFF7)](https://github.com/najaf-debug)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najaf-ali-haider-a81164368/)
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"From Flutter to Full Stack — delivering real products for real clients."</i>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:0D1117&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
