@@ -60,9 +60,9 @@ Status   : Open to Work
 
 | | Project | Tech Stack | Type |
 |---|---|---|---|
-| 1 | Production App — Client | React (Vite), Appwrite, Redux Toolkit, React Router Dom | Client Work |
-| 2 | Production App — Client | React (Vite), Appwrite, Redux, React Router Dom | Client Work |
-| 3 | ThinkBoard — Notes App | MongoDB, Express, React, Node.js, Upstash | Personal |
+| 1 | Production App — Client | React (Vite), Appwrite, Tailwind, Redux Toolkit, React Router Dom | Client Work |
+| 2 | Production App — Client | React (Vite), Appwrite, Tailwind, Redux, React Router Dom | Client Work |
+| 3 | ThinkBoard — Notes App | MongoDB, Express, React, Tailwind, Node.js, Upstash | Personal |
 | 4 | Flappy Bird | Flutter + Flame Engine | Personal |
 | 5 | Grocery App (FYP) | Flutter | Academic |
 | 6 | Tic Tac Toe | HTML, CSS, JavaScript | Personal |
