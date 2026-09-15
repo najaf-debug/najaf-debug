@@ -18,7 +18,7 @@
 Name     : Najaf Ali Haider
 Role     : MERN Stack Developer
 Mobile   : Former Flutter Developer
-Client Apps Delivered: 2
+Client Apps Delivered: 3
 Status   : Open to Work
 ```
 
